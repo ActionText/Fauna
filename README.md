@@ -7,7 +7,8 @@
 *A living ecosystem for Kerbal Space Program.*
 
 State-machine driven creatures with behaviour, needs and environmental interaction.
-***(yes, fish in laythe, not only fish tho.)***
+
+*(yes, fish in laythe, not only fish tho.)*
 
 <br>
 
