@@ -2,7 +2,7 @@
 
 <img src="banner.png" width="100%">
 
-# 🐄 Fauna
+# Fauna
 
 *A living ecosystem for Kerbal Space Program.*
 
