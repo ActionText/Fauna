@@ -6,8 +6,7 @@
 
 *A living ecosystem for Kerbal Space Program.*
 
-State-machine driven creatures with autonomous behaviour,
-memory, needs and environmental interaction.
+State-machine driven creatures with autonomous behaviour, needs and environmental interaction.
 
 <br>
 
