@@ -6,7 +6,8 @@
 
 *A living ecosystem for Kerbal Space Program.*
 
-State-machine driven creatures with autonomous behaviour, needs and environmental interaction.
+State-machine driven creatures with behaviour, needs and environmental interaction.
+***(yes, fish in laythe, not only fish tho.)***
 
 <br>
 
@@ -29,7 +30,7 @@ The long-term goal is to create believable wildlife that naturally adapts to dif
 - Autonomous ecosystem simulation
 - Environmental awareness
 - Needs-based behaviour
-- Extensible architecture
+- idk more, ill think about it later
 
 This project is actively developed.
 Documentation and examples will be published as development progresses.
