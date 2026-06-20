@@ -33,5 +33,5 @@ The long-term goal is to create believable wildlife that naturally adapts to dif
 - Needs-based behaviour
 - idk more, ill think about it later
 
-This project is actively developed.
+This project is actively being developed.
 Documentation and examples will be published as development progresses.
