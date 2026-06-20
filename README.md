@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="../banner.png" width="100%">
-
 # 🐄 Fauna
 
 *A living ecosystem for Kerbal Space Program.*
