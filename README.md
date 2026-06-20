@@ -21,7 +21,7 @@ State-machine driven creatures with behaviour, needs and environmental interacti
 
 Fauna is an experimental ecosystem simulation for Kerbal Space Program.
 
-Instead of scripted behaviour, every creature is driven by a modular state machine that allows it to perceive, decide and interact with the world autonomously.
+Instead of scripted behaviour, every creature is driven by a modular state machine that allows it to perceive, decide and interact with the world.
 
 The long-term goal is to create believable wildlife that naturally adapts to different environments and situations.
 
